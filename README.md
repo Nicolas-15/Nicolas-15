@@ -5,12 +5,6 @@ Chile 🇨🇱 | Esp / Eng<br>
 Buscando práctica profesional en desarrollo de software
 
 ---
-
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:nl15062003@gmail.com)
-
----
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
